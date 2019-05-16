@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c8d9b"],{5747:function(e,n,c){"use strict";c.r(n);var t=function(){var e=this,n=e.$createElement,c=e._self._c||n;return c("div")},d=[],i=(c("cadf"),c("551c"),c("097d"),{name:"friend"}),r=i,u=c("2877"),a=Object(u["a"])(r,t,d,!1,null,"66402dec",null);a.options.__file="friend.vue";n["default"]=a.exports}}]);
